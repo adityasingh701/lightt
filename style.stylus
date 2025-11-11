@@ -63,3 +63,4 @@ body
       fill var(--shine)
     &-outline
       stroke var(--stroke)
+
